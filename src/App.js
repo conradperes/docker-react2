@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-           Conrad atuando com React! Esse é o Rei!
+           Conrad atuando com React! Esse é o Rei alterando um branch de release simulando merge de outro branch com outro engenheiro do time!
           </p>
           <a
             className="App-link"
